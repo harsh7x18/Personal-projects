@@ -1,0 +1,9 @@
+This Python package is used  to get information regarding the novel corona virus provided by Johns Hopkins university and worldometers.info. 
+
+For understanding this project you need to have the basic understanding of python, lists, dictionaries and some object-oriented programming.
+
+By default it uses the data from John Hopkins University, you can change the source to worldometer ( I have shown how to change in the source code).
+
+Data returned in basically a python format of combination of lists and dictionaries. You can access the data by using normal python instruction since data returned is in dictionary inside a list.
+
+Using this package you can regularly access the countries which are affected by corona virus, active cases, deaths, confirmed cases, recovered cases etc. 
