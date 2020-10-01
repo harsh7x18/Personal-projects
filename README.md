@@ -1,3 +1,4 @@
 # pyGitHub7.github.io
-Python projects
+Python projects for everyone.
+
 
