@@ -2,7 +2,7 @@ This Python package is used  to get information regarding the novel corona virus
 
 For understanding this project you need to have the basic understanding of python, lists, dictionaries and some object-oriented programming.
 
-By default it uses the data from John Hopkins University, you can change the source to worldometer ( I have shown how to change in the source code).
+By default it uses the data from John Hopkins University, you can change the source to worldometer (I have shown how to change in the source code).
 
 Data returned in basically a python format of combination of lists and dictionaries. You can access the data by using normal python instruction since data returned is in dictionary inside a list.
 
