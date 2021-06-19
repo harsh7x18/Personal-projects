@@ -6,4 +6,4 @@ the map.
 To completely understand this project you got to have basic knowledge about python, json, REST API and file handling. 
 
 While running the code, first it asks for a address. After you enter the address it returns data in json which you can access and print a particular piece of information if you want to.
-Returned data include latitute, longitude, place id, long name, short name, formatted address etc.
+Returned data include latitute, longitude, place id, long name, short name, formatted address.
