@@ -5,5 +5,4 @@ IMDbPY package can be very easily used by programmers and developers to provide 
 For understanding this project you need to have a basic knowledge about python, definition of database, module, instances and lists.
 
 While running the code it asks for a movie or tv series name. After you enter the movie or a  tv series name it returns a list of movies or tv series with its id which are related to the
-movies or tv series you entered. Since every movie or tv series has a unique id, this program asks for a id for the particular movie or tv series you want to search after you enter the id
-it reuturns plot, cast name, director of movie or writer of a tv series, rating, genre. 
+movies or tv series you entered. Since every movie or tv series has a unique id, this program asks for a id for the particular movie or tv series you want to search after you enter the id it reuturns plot, cast name, director of movie or writer of a tv series, rating, genre. 
